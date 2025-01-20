@@ -1,0 +1,16 @@
+title: TR Filter
+originalAuthor: danimalforlife
+description: Fixes the color issue in every world.
+dependencies: 
+assets:
+
+
+###Gives every world the Timeless River filter###
+- name: 03system.bin
+  method: binarc
+  source:
+  - name: arif
+    method: copy
+    source:
+    - name: arif_0.list
+    type: List
